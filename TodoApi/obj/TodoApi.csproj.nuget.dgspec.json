@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\DotnetActions\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\DotnetActions\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\DotnetActions\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\DotnetActions\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\andra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\andra\\Desktop\\Proyectos\\Dotnet\\Dotnet+GithubActions\\DotnetActions\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
